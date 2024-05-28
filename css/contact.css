@@ -1,27 +1,21 @@
-.form_coctact{
+.form_about_title{
+    padding-top: 105px;
+}
+.form_contact{
     margin-top: 50px;
 }
 .form_feed{
-    position:absolute;
-    top: 50px;
+    position: relative;
+    top: 45px;
+    padding-left: 50px;
     float: left;
-    width: 550px;;
-    padding-left: 150px;
-    padding-top: 10px;
+    padding-right:50px;
 }
-.floatting{
-    border-right: 1px solid #e0dede;
-    padding-right: 40px;
-}
-.btn-primary{
-    margin-top: 10px;
+.floating{
+    width: 400px;
+    padding-right: 50px;
+    border-right: 1px solid #dbd6d6;
 }
 .form_about{
-    position: relative;
-    top: 155px;
-    float: right;
-    width: 700px;
-    margin-right: 90px;
-    padding-top: 10px;
-    font-size: 14px;
+    padding-top: 45px;
 }
