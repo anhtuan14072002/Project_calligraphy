@@ -1,0 +1,27 @@
+.form_coctact{
+    margin-top: 50px;
+}
+.form_feed{
+    position:absolute;
+    top: 50px;
+    float: left;
+    width: 550px;;
+    padding-left: 150px;
+    padding-top: 10px;
+}
+.floatting{
+    border-right: 1px solid #e0dede;
+    padding-right: 40px;
+}
+.btn-primary{
+    margin-top: 10px;
+}
+.form_about{
+    position: relative;
+    top: 155px;
+    float: right;
+    width: 700px;
+    margin-right: 90px;
+    padding-top: 10px;
+    font-size: 14px;
+}
