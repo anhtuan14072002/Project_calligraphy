@@ -1,9 +1,12 @@
-
+.all_footer{
+    background-color: #0092be;
+}
 .footer{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     height: 250px;
-    background-color: #0092be;
+    width: 1200px;
+    margin: 0 auto;
     color: #fafafa;
 }
 .about_footer {

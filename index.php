@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="css/footer.css">
     <?php include("styles/styles.php") ?>
 </head>
-<body>
+<bod class="zoom_out">
     <section class="section_header">
         <?php include("html/navbar.php") ?>
     </section>
-    <div class="container">
+    <section class="containerr">
     <p>Bị lừa mất 600 triệu đồng khi nhờ người "chạy án" cho con trai nhưng con vẫn bị tuyên án tử hình, bà T. kiện người này ra tòa. Tuy nhiên, tại phiên tòa, bà T. bật khóc xin “giảm hết cấp”, không phạt tù kẻ lừa đảo.
 Ngày 28/5, TAND tỉnh Nghệ An mở phiên tòa sơ thẩm xét xử bị cáo Nguyễn Tiến Dũng (SN 1972, trú TP Hà Nội) về tội “Lừa đảo chiếm đoạt tài sản”.
 
@@ -93,7 +93,7 @@ Có mặt tại phiên tòa, bà T. xin hội đồng xét xử giảm nhẹ t�
 Nghe những lời ruột gan của bà T., bị cáo Dũng cúi mặt, đôi mắt đỏ hoe. Xem xét toàn diện vụ án, Hội đồng xét xử tuyên phạt Nguyễn Tiến Dũng 7 năm 6 tháng tù.
 
 Nguồn: https://tienphong.vn/bi-lua-600-trieu-tien-chay-an-cho-con-bi-hai-nghen-ngao-xin-toa-khong-phat-...</p>
-</div>
+</section>
     </div>
 
     <footer>

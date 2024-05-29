@@ -1,3 +1,4 @@
+
 .form_about_title{
     padding-top: 105px;
 }
@@ -7,7 +8,7 @@
 .form_feed{
     position: relative;
     top: 45px;
-    padding-left: 50px;
+    padding-left: 42px;
     float: left;
     padding-right:50px;
 }
@@ -18,4 +19,7 @@
 }
 .form_about{
     padding-top: 45px;
+}
+.form_about{
+    display: block;
 }

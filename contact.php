@@ -15,7 +15,6 @@
     </section>
     <div class="container">
         <span><?php include("html/section_contact.php") ?></span>
-        
     </div>
     <footer>
         <?php include("html/footer.php")?>
