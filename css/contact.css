@@ -1,9 +1,9 @@
 
 .form_about_title{
-    padding-top: 105px;
+    padding-top: 135px;
 }
 .form_contact{
-    margin-top: 50px;
+    margin-top: 75px;
 }
 .form_feed{
     position: relative;
@@ -22,4 +22,7 @@
 }
 .form_about{
     display: block;
+}
+.form_about_map{
+    margin-bottom: 20px;
 }
