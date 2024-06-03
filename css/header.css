@@ -45,6 +45,9 @@
     padding-top: 5px;
     width: 1200px;
     margin: 0 auto;
+    /* Dũng thêm: */
+    display: flex;
+    justify-content: space-between;
 }
 .header_second{
     position: fixed;
