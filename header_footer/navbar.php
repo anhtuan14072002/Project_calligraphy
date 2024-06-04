@@ -28,7 +28,7 @@
                     <li class="header_li"><a href="document.php">Document</a></li>
                     <li class="header_li"><a href="feedback.php">Feedback</a></li>
                     <li class="header_li"><a href="contact.php">Contact</a></li>
-                </ul>
+                </ul>       
             </div>
         </div>
     </div>
