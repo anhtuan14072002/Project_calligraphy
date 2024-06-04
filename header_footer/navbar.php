@@ -1,24 +1,19 @@
-<?php
-    //require_once("functions/search.php");
-
-?>
-
 <div class="header">
     <div class="all_head_one">
-        <div class="header_first">
-            <div class="open_time">
-                <i class="bi bi-calendar2-check"></i>
-                <p>8:30 AM - 5:00 PM from Monday - Sunday </p>
-                <i class="bi bi-telephone"></i>
-                <p>Hotline: 08 6226 1213</p>
-            </div>
+    <div class="header_first">
+        <div class="open_time">
+            <i class="bi bi-calendar2-check"></i>
+            <p>8:30 AM - 5:00 PM from Monday - Sunday </p>
+            <i class="bi bi-telephone"></i>
+            <p>Hotline: 0988 988 988</p>
         </div>
+    </div>
     </div>
     <div class="all_head_tow">
         <div class="header_second">
-            <div class="head_li container-fluid">
+            <div class="head_li">
                 <ul>
-                    <li class="header_li"><a href=""><img class="logo" src="/images/logo.png"></a></li>
+                    <li class="header_li"><a href=""><img class="logo" src="/images/logo.png" ></a></li>
                     <li class="header_li"><a href="/">Home</a></li>
                     <li class="header_li"><a href="about.php">About</a></li>
                     <li class="header_li"><a href="learn.php">Learn</a></li>
@@ -34,10 +29,6 @@
                     <li class="header_li"><a href="feedback.php">Feedback</a></li>
                     <li class="header_li"><a href="contact.php">Contact</a></li>
                 </ul>
-                <form class="d-flex" role="search" action="search.php" method="GET" >
-                    <input value="<?php echo $search; ?>" class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-                    <button class="btn btn-outline-success" type="submit">Search</button>
-                </form>
             </div>
         </div>
     </div>

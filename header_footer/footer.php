@@ -6,11 +6,11 @@
         </div>
         <div class="foot category_footer">
             <h5>CATEGORY</h5>
-            <p><a href=""><i class="bi bi-chevron-right"></i>Home</a></p>
-            <p><a href=""><i class="bi bi-chevron-right"></i>About</a></p>
-            <p><a href=""><i class="bi bi-chevron-right"></i>Learn</a></p>
-            <p><a href=""><i class="bi bi-chevron-right"></i>Library</a></p>
-            <p><a href=""><i class="bi bi-chevron-right"></i>Feedback</a></p>
+            <p><a href="/"><i class="bi bi-chevron-right"></i>Home</a></p>
+            <p><a href="/about.php"><i class="bi bi-chevron-right"></i>About</a></p>
+            <p><a href="/learn.php"><i class="bi bi-chevron-right"></i>Learn</a></p>
+            <p><a href="/library.php"><i class="bi bi-chevron-right"></i>Library</a></p>
+            <p><a href="/feedback.php"><i class="bi bi-chevron-right"></i>Feedback</a></p>
         </div>
         <div class="foot contact_footer">
             <h5>CONTACT</h5>
@@ -19,7 +19,7 @@
             Location: 8A Tôn Thất Thuyết, Mỹ Đình,<br> Nam Từ Liêm, Hà Nội</p>
             <p>
             <i class="bi bi-telephone-fill"></i>
-            Telephone: 08 6226 1213
+            Telephone: 0988 988 988
             </p>
             <p>
             <i class="bi bi-envelope-fill"></i>
